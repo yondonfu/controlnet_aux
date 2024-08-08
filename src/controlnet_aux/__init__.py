@@ -4,6 +4,7 @@ from .anyline import AnylineDetector
 from .canny import CannyDetector
 from .dwpose import DWposeDetector
 from .hed import HEDdetector
+from .hed_cuda import HEDCudadetector
 from .leres import LeresDetector
 from .lineart import LineartDetector
 from .lineart_anime import LineartAnimeDetector
